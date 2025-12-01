@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9wPAYIW5MixKjiJhDPfz5fjjLiKpAW2EdoInkQcsjA/wdA9hXwJnhn03PFxXPlCu0JlvKu/I8oynzl6cb+7mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dnusr\\Desktop\\text-to\\TTSGui\\VoiceChecker\\VoiceChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dnusr\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512",
+    "C:\\Users\\dnusr\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.56\\microsoft.windows.sdk.net.ref.10.0.19041.56.nupkg.sha512"
+  ],
+  "logs": []
+}
